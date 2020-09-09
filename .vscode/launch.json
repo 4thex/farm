@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/farm/bin/Debug/netcoreapp3.1/farm.dll",
+            "program": "${workspaceFolder}/farm/bin/Debug/netcoreapp3.1/farm.exe",
             "args": [],
             "cwd": "${workspaceFolder}/farm",
             "console": "internalConsole",
