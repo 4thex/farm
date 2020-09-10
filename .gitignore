@@ -1,2 +1,2 @@
-farm/obj/*
-farm/bin/*
+**/obj/*
+**/bin/*
